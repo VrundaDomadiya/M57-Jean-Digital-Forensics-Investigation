@@ -1,5 +1,17 @@
 # Investigation Evidence
 
-Selected screenshots demonstrating the forensic investigation workflow and key findings from the M57-Jean training image.
+This folder contains selected screenshots from my hands-on investigation of the **M57-Jean forensic training image using Autopsy**.
 
-The screenshots in this folder document selected stages of the investigation, including file-system analysis, browser and email forensics, attachment analysis, and timeline correlation.
+The evidence is organized to demonstrate key stages of my forensic workflow, including:
+
+- Evidence and case analysis
+- File-system and deleted-file investigation
+- Keyword and artifact triage
+- Browser activity analysis
+- Email and attachment forensics
+- Communication analysis
+- Timeline reconstruction and cross-artifact correlation
+
+Only selected investigation-relevant screenshots are included rather than every step performed during the lab.
+
+> **Note:** This project uses a forensic training dataset for educational and portfolio purposes. Observed artifacts are documented separately from analyst interpretation.
