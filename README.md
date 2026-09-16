@@ -122,6 +122,48 @@ This temporal relationship provided a useful investigative lead for correlating 
 
 ---
 
+## 📸 Evidence Highlights
+
+### File-System & Artifact Analysis
+
+Validated forensic artifacts using file metadata, deleted-file analysis, file signatures, and hash-based triage.
+
+![Deleted File Metadata](screenshots/13-deleted-file-metadata.png)
+
+![Extension Mismatch and Hex Signature](screenshots/14-extension-mismatch-hex-signature.png)
+
+---
+
+### Browser & SQL Artifact Analysis
+
+Correlated browser activity and examined browser database artifacts to reconstruct user activity.
+
+![Browser Artifact Correlation](screenshots/23-anthrax-cdc-browser-correlation.png)
+
+![SQL Download Artifact](screenshots/27_SQL_Administrator_Download_Artifact.png)
+
+---
+
+### Email & Communication Forensics
+
+Analyzed raw email headers, extracted attachments, reviewed PST artifacts, and built a communication matrix.
+
+![Raw Email Header Analysis](screenshots/28_Email_Raw_Header_Analysis.png)
+
+![Communication Matrix](screenshots/38_Email_Communication_Matrix.png)
+
+---
+
+### Timeline Correlation
+
+Correlated email activity with endpoint and removable-device events to reconstruct the sequence of activity on July 19, 2008.
+
+![Email and USB Timeline Correlation](screenshots/43_Timeline_Email_USB_Activity_July19.png)
+
+![Jean Response Timeline](screenshots/44_Timeline_Jean_Attachment_Response_July19.png)
+
+> **Analyst note:** The events above are temporally correlated. The timeline alone does not establish that a specific file was transferred to or from the removable device.
+
 ## 🧠 Key Skills Practiced
 
 - Digital forensic triage
